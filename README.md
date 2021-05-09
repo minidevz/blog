@@ -1,2 +1,2 @@
 # Blog
- A journal-ish blog where I will constantly ramble
+ A journal-ish blog thingy. Made with Hugo because ***Hugo is epic***
