@@ -1,9 +1,5 @@
 # Ibrahim's Blog
-### A journal-ish blog thingy. 
-***Hugo is epic***.
-
-#### Theme Used: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)  
-
+A journal-ish blog thingy. ***Hugo is epic***.
 
 ### Epic Resources for Hugo:  
 
